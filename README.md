@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Jeoffrey aka @CactusJC
-- 👀 I’m interested in phyton programming and blockchain
+- 👀 I’m interested in Python programming and blockchain
